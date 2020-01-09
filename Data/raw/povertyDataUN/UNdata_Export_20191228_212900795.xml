@@ -1,0 +1,711 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2016</field>
+            <field name="Value">54.5</field>
+            <field name="Value Footnotes">1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2012</field>
+            <field name="Value">14.3</field>
+            <field name="Value Footnotes">2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">2016</field>
+            <field name="Value">30.3</field>
+            <field name="Value Footnotes">3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2016</field>
+            <field name="Value">29.4</field>
+            <field name="Value Footnotes">4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2012</field>
+            <field name="Value">32.4</field>
+            <field name="Value Footnotes">4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Year">2012</field>
+            <field name="Value">6</field>
+            <field name="Value Footnotes">5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2016</field>
+            <field name="Value">24.3</field>
+            <field name="Value Footnotes">6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2016</field>
+            <field name="Value">5.7</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2012</field>
+            <field name="Value">6.3</field>
+            <field name="Value Footnotes">7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Year">2012</field>
+            <field name="Value">12</field>
+            <field name="Value Footnotes">8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Year">2016</field>
+            <field name="Value">39.5</field>
+            <field name="Value Footnotes">9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Year">2012</field>
+            <field name="Value">43.3</field>
+            <field name="Value Footnotes">9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2016</field>
+            <field name="Value">25.7</field>
+            <field name="Value Footnotes">10</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2016</field>
+            <field name="Value">23.4</field>
+            <field name="Value Footnotes">11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2012</field>
+            <field name="Value">21</field>
+            <field name="Value Footnotes">11</field>
+        </record>
+        <record>
+            <field name="Country or Area">Cambodia</field>
+            <field name="Year">2012</field>
+            <field name="Value">17.7</field>
+            <field name="Value Footnotes">12</field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2016</field>
+            <field name="Value">4.5</field>
+            <field name="Value Footnotes">13</field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2012</field>
+            <field name="Value">10.2</field>
+            <field name="Value Footnotes">13</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2016</field>
+            <field name="Value">28</field>
+            <field name="Value Footnotes">14</field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2012</field>
+            <field name="Value">32.7</field>
+            <field name="Value Footnotes">14</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">2016</field>
+            <field name="Value">20.5</field>
+            <field name="Value Footnotes">15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">2012</field>
+            <field name="Value">20.6</field>
+            <field name="Value Footnotes">15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2016</field>
+            <field name="Value">20</field>
+            <field name="Value Footnotes">16</field>
+        </record>
+        <record>
+            <field name="Country or Area">Croatia</field>
+            <field name="Year">2012</field>
+            <field name="Value">19.5</field>
+            <field name="Value Footnotes">17</field>
+        </record>
+        <record>
+            <field name="Country or Area">Czech Republic</field>
+            <field name="Year">2012</field>
+            <field name="Value">8.6</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dem. Rep. Congo</field>
+            <field name="Year">2012</field>
+            <field name="Value">63.9</field>
+            <field name="Value Footnotes">19</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Year">2016</field>
+            <field name="Value">30.5</field>
+            <field name="Value Footnotes">20</field>
+        </record>
+        <record>
+            <field name="Country or Area">Dominican Republic</field>
+            <field name="Year">2012</field>
+            <field name="Value">41</field>
+            <field name="Value Footnotes">20</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Year">2016</field>
+            <field name="Value">22.9</field>
+            <field name="Value Footnotes">21</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ecuador</field>
+            <field name="Year">2012</field>
+            <field name="Value">27.3</field>
+            <field name="Value Footnotes">21</field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">2012</field>
+            <field name="Value">26.3</field>
+            <field name="Value Footnotes">22</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">2016</field>
+            <field name="Value">32.7</field>
+            <field name="Value Footnotes">23</field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">2012</field>
+            <field name="Value">34.5</field>
+            <field name="Value Footnotes">24</field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2016</field>
+            <field name="Value">22</field>
+            <field name="Value Footnotes">25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2012</field>
+            <field name="Value">30</field>
+            <field name="Value Footnotes">25</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2016</field>
+            <field name="Value">23.4</field>
+            <field name="Value Footnotes">26</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2012</field>
+            <field name="Value">24.2</field>
+            <field name="Value Footnotes">27</field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">2012</field>
+            <field name="Value">55.2</field>
+            <field name="Value Footnotes">28</field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Year">2012</field>
+            <field name="Value">58.5</field>
+            <field name="Value Footnotes">29</field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Year">2016</field>
+            <field name="Value">60.9</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Year">2012</field>
+            <field name="Value">66.5</field>
+            <field name="Value Footnotes">30</field>
+        </record>
+        <record>
+            <field name="Country or Area">Hungary</field>
+            <field name="Year">2012</field>
+            <field name="Value">15</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2016</field>
+            <field name="Value">10.9</field>
+            <field name="Value Footnotes">32</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iraq</field>
+            <field name="Year">2012</field>
+            <field name="Value">18.9</field>
+            <field name="Value Footnotes">33</field>
+        </record>
+        <record>
+            <field name="Country or Area">Jamaica</field>
+            <field name="Year">2012</field>
+            <field name="Value">19.9</field>
+            <field name="Value Footnotes">34</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Year">2016</field>
+            <field name="Value">2.5</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Year">2012</field>
+            <field name="Value">3.8</field>
+            <field name="Value Footnotes">35</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kosovo</field>
+            <field name="Year">2012</field>
+            <field name="Value">22.9</field>
+            <field name="Value Footnotes">36</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyz Republic</field>
+            <field name="Year">2016</field>
+            <field name="Value">25.4</field>
+            <field name="Value Footnotes">37</field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyz Republic</field>
+            <field name="Year">2012</field>
+            <field name="Value">38</field>
+            <field name="Value Footnotes">38</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao PDR</field>
+            <field name="Year">2012</field>
+            <field name="Value">23.4</field>
+            <field name="Value Footnotes">39</field>
+        </record>
+        <record>
+            <field name="Country or Area">Latvia</field>
+            <field name="Year">2012</field>
+            <field name="Value">19.4</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lebanon</field>
+            <field name="Year">2012</field>
+            <field name="Value">27.4</field>
+            <field name="Value Footnotes">40</field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Year">2016</field>
+            <field name="Value">50.9</field>
+            <field name="Value Footnotes">41</field>
+        </record>
+        <record>
+            <field name="Country or Area">Lithuania</field>
+            <field name="Year">2012</field>
+            <field name="Value">20.6</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year">2012</field>
+            <field name="Value">70.7</field>
+            <field name="Value Footnotes">42</field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2016</field>
+            <field name="Value">51.5</field>
+            <field name="Value Footnotes">43</field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2016</field>
+            <field name="Value">8.2</field>
+            <field name="Value Footnotes">44</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2012</field>
+            <field name="Value">7.9</field>
+            <field name="Value Footnotes">45</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2016</field>
+            <field name="Value">43.6</field>
+            <field name="Value Footnotes">46</field>
+        </record>
+        <record>
+            <field name="Country or Area">Moldova</field>
+            <field name="Year">2012</field>
+            <field name="Value">16.6</field>
+            <field name="Value Footnotes">47</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">2016</field>
+            <field name="Value">29.6</field>
+            <field name="Value Footnotes">48</field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">2012</field>
+            <field name="Value">27.4</field>
+            <field name="Value Footnotes">49</field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2012</field>
+            <field name="Value">25.2</field>
+            <field name="Value Footnotes">50</field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Year">2016</field>
+            <field name="Value">24.9</field>
+            <field name="Value Footnotes">51</field>
+        </record>
+        <record>
+            <field name="Country or Area">North Macedonia</field>
+            <field name="Year">2016</field>
+            <field name="Value">21.9</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">North Macedonia</field>
+            <field name="Year">2012</field>
+            <field name="Value">26.2</field>
+            <field name="Value Footnotes">52</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Year">2016</field>
+            <field name="Value">22.1</field>
+            <field name="Value Footnotes">53</field>
+        </record>
+        <record>
+            <field name="Country or Area">Panama</field>
+            <field name="Year">2012</field>
+            <field name="Value">26.5</field>
+            <field name="Value Footnotes">53</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Year">2016</field>
+            <field name="Value">28.9</field>
+            <field name="Value Footnotes">54</field>
+        </record>
+        <record>
+            <field name="Country or Area">Paraguay</field>
+            <field name="Year">2012</field>
+            <field name="Value">31.4</field>
+            <field name="Value Footnotes">54</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2016</field>
+            <field name="Value">20.7</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2012</field>
+            <field name="Value">25.8</field>
+            <field name="Value Footnotes">55</field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2012</field>
+            <field name="Value">25.2</field>
+            <field name="Value Footnotes">56</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2016</field>
+            <field name="Value">15</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Poland</field>
+            <field name="Year">2012</field>
+            <field name="Value">17.3</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2016</field>
+            <field name="Value">23.6</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2012</field>
+            <field name="Value">23</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">2016</field>
+            <field name="Value">13.3</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">2012</field>
+            <field name="Value">10.7</field>
+            <field name="Value Footnotes">57</field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2016</field>
+            <field name="Value">38.2</field>
+            <field name="Value Footnotes">58</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2016</field>
+            <field name="Value">25.7</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2012</field>
+            <field name="Value">24.5</field>
+            <field name="Value Footnotes">31</field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovak Republic</field>
+            <field name="Year">2012</field>
+            <field name="Value">12.8</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">Slovenia</field>
+            <field name="Year">2012</field>
+            <field name="Value">14.5</field>
+            <field name="Value Footnotes">18</field>
+        </record>
+        <record>
+            <field name="Country or Area">South Sudan</field>
+            <field name="Year">2016</field>
+            <field name="Value">82.3</field>
+            <field name="Value Footnotes">59</field>
+        </record>
+        <record>
+            <field name="Country or Area">South Sudan</field>
+            <field name="Year">2012</field>
+            <field name="Value">50.1</field>
+            <field name="Value Footnotes">60</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">2016</field>
+            <field name="Value">4.1</field>
+            <field name="Value Footnotes">61</field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">2012</field>
+            <field name="Value">6.7</field>
+            <field name="Value Footnotes">62</field>
+        </record>
+        <record>
+            <field name="Country or Area">St. Lucia</field>
+            <field name="Year">2016</field>
+            <field name="Value">25</field>
+            <field name="Value Footnotes">63</field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">2016</field>
+            <field name="Value">8.6</field>
+            <field name="Value Footnotes">64</field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">2012</field>
+            <field name="Value">12.6</field>
+            <field name="Value Footnotes">65</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Year">2016</field>
+            <field name="Value">14.3</field>
+            <field name="Value Footnotes">66</field>
+        </record>
+        <record>
+            <field name="Country or Area">Turkey</field>
+            <field name="Year">2012</field>
+            <field name="Value">16.3</field>
+            <field name="Value Footnotes">66</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">2016</field>
+            <field name="Value">21.4</field>
+            <field name="Value Footnotes">67</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">2012</field>
+            <field name="Value">19.7</field>
+            <field name="Value Footnotes">68</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2016</field>
+            <field name="Value">3.8</field>
+            <field name="Value Footnotes">69</field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2012</field>
+            <field name="Value">9</field>
+            <field name="Value Footnotes">69</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Year">2016</field>
+            <field name="Value">9.4</field>
+            <field name="Value Footnotes">70</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uruguay</field>
+            <field name="Year">2012</field>
+            <field name="Value">12.4</field>
+            <field name="Value Footnotes">70</field>
+        </record>
+        <record>
+            <field name="Country or Area">Uzbekistan</field>
+            <field name="Year">2012</field>
+            <field name="Value">15</field>
+            <field name="Value Footnotes">71</field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela</field>
+            <field name="Year">2012</field>
+            <field name="Value">27.2</field>
+            <field name="Value Footnotes">72</field>
+        </record>
+        <record>
+            <field name="Country or Area">Vietnam</field>
+            <field name="Year">2016</field>
+            <field name="Value">9.8</field>
+            <field name="Value Footnotes">73</field>
+        </record>
+        <record>
+            <field name="Country or Area">Vietnam</field>
+            <field name="Year">2012</field>
+            <field name="Value">17.2</field>
+            <field name="Value Footnotes">74</field>
+        </record>
+        <record>
+            <field name="Country or Area">West Bank and Gaza</field>
+            <field name="Year">2016</field>
+            <field name="Value">29.2</field>
+            <field name="Value Footnotes">75</field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote footnoteSeqID="1">Source: National Statictis and Information Authority (NSIA), World Bank staff estimates based om NRVA 2007-08, 2011-12 and ALCS 2016-17. Poverty line is absolute.</footnote>
+        <footnote footnoteSeqID="2">Source: Instat and World Bank (2013). ALBANIA: TRENDS IN POVERTY 2002-2005-2008-2012. Poverty line is absolute. World Bank estimate.</footnote>
+        <footnote footnoteSeqID="3">Source: Instituto Nacional de Estadisticas y Censos (INDEC), EPH-C, Second semester. Poverty line is absolute. World Bank estimate.</footnote>
+        <footnote footnoteSeqID="4">Source: National Statistical Service of the Republic of Armenia. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="5">Source: Statistical yearbook of Azerbaijan, 2013. State Statistical Committee of the Republic of Azerbaijan. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="6">Source: Bangladesh Bureau of Statistics based on Household Income and Expenditure Survey.</footnote>
+        <footnote footnoteSeqID="7">Source: Social conditions and living standards of the population in the Republic of Belarus. National Statistical Committee of the Republic of Belarus. The welfare measure used is consumption per adult equivalent. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="8">Source:  Bhutan Living Standard Surveys (BLSS). National Statistics Bureau Royal Government of Bhutan and the World Bank. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="9">Source: Encuesta Continua de Hogares- MECOVI; Moderate Poverty Line (individuals) (www.ine.gov.bo and www.udape.gov.bo) . Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="10">Source: instituto brasileiro de geografia estatÃ­stica (IBGE). Pesquisa Nacional por Amostra de DomicÃ­lios ContÃ­nua (PNAD-C). Summary of Social Indicators 2018</footnote>
+        <footnote footnoteSeqID="11">Source: Eurostat. Poverty line is relative. Government estimate.</footnote>
+        <footnote footnoteSeqID="12">Source: WB estimates The welfare measure used is consumption per capita. Poverty line is absolute. World Bank estimate.</footnote>
+        <footnote footnoteSeqID="13">Source: National Bureau of Statistics of China. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="14">Source: DANE. Gran Encuesta Continua de Hogares; Moderate Poverty Line (individuals). (www.dane.gov.co) . Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="15">Source: INEC/Encuesta Nacional de Hogares (Enaho) 2010 - 2017. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="16">Source: Croatian Bureau of Statistics. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="17">Source: Croatian Bureau of Statistics; accessed 08/14/2017. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="18">Source: EUROSTAT, At risk of poverty rate (cut-off point: 60% of median equivalised income after social transfers), reported year is income reference year. Poverty line is relative. Government estimate.</footnote>
+        <footnote footnoteSeqID="19">Source: World Bank, 2016 DRC-Poverty Assessment using the 1-2-3 Household Surveys, 2005 and 2012. Poverty line is absolute.</footnote>
+        <footnote footnoteSeqID="20">Source: Encuesta Nacional de Fuerza de Trabajo (ENFT). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="21">Source: INEC. ENEMDU, Income Poverty; Dec data; Moderate Poverty Line (individuals). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="22">Source: Central Administration for Public Mobilization and Statistics. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="23">Source: Direccion General de Estadistica y Censos (DIGESTYC). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="24">Source: Direccion General de Estadistica y Censos (DIGESTYC). Encuesta de Hogares de PropÃ³sitos MÃºltiples (www.digestyc.gob.sv) . Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="25">Source: Geostat. National Statistics Office of Georgia. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="26">Source: Poverty Profile in Ghana (2005 - 2017). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="27">Source: Poverty Profile in Ghana (2005 - 2013). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="28">Source: INS &amp; Guinea Poverty Assement, 2017. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="29">Source: National official poverty line developed in 2012. Rates based on consumption agregate. Rates are official and have been launched on may 13 2014, but have not been uploaded in the government websites as of yet. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="30">Source: INE. Encuesta Permanente de Hogares de PropÃ³sitos Multiples (EPHPM). Household poverty. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="31">Source: EUROSTAT, At risk of poverty rate (cut-off point: 60% of median equivalised income after social transfers), reported year is income reference year. The welfare measure used is income per adult equivalent. Poverty line is relative. Government estimate.</footnote>
+        <footnote footnoteSeqID="32">Source: Biro Pusat Statistik (BPS), Indonesia. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="33">Source: World Bank (2014). Iraq Poverty and Inclusion Assessment. Poverty line is absolute. World Bank estimate.</footnote>
+        <footnote footnoteSeqID="34">Source: Jamaica Survey of Living Conditions; Moderate Poverty Line (individuals) (www.pioj.gov.jm). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="35">Source: The Household Budget Survey of Kazakhstan. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="36">Source: CONSUMPTION POVERTY IN THE REPUBLIC OF KOSOVO 2012-2015 ask.rks-gov.net/media/3187/poverty-report-2012-2015.pdf.</footnote>
+        <footnote footnoteSeqID="37">Source: National Statistical Committee of the Kyrgyz Republic. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="38">Source: National Statistical Committee (2011) Living standards of the populaion in the Kyrgyz Republic 2008-2012. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="39">Source: Poverty Profile in Lao PDR; Poverty report for the Lao Consumption and Expenditure Survey 2012-2013 The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="40">Source: CAS and World Bank (2015). Measuring poverty in Lebanon using 2011 HBS. The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="41">Source: HIES 2016. Poverty line is absolute. World Bank estimate.</footnote>
+        <footnote footnoteSeqID="42">Source: EPM 2010, ENSOMD 2012 and World Bank Poverty Assessment 2016. Poverty line is absolute.</footnote>
+        <footnote footnoteSeqID="43">Source: INTEGRATED HOUSEHOLD SURVEY IV. Poverty line is absolute.</footnote>
+        <footnote footnoteSeqID="44">Source: NA *</footnote>
+        <footnote footnoteSeqID="45">Source: HBS.</footnote>
+        <footnote footnoteSeqID="46">Source: CONEVAL using MCS-ENIGH and MEC-MCS-ENIGH. Poverty line is absolute.</footnote>
+        <footnote footnoteSeqID="47">Source: Saracia Republica Moldova 2012. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="48">Source: National Statistical Office of Mongolia and World Bank. Poverty line is absolute. World Bank and Government estimate.</footnote>
+        <footnote footnoteSeqID="49">Source: National Statistical Office of Mongolia. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="50">Source: National Statistics Office.  At risk of poverty rate, reported year is income reference year. Poverty line is relative. Government estimate.</footnote>
+        <footnote footnoteSeqID="51">Source: INIDE / EMNV 2001, 2005, 2009, 2014, and 2016. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="52">Source: State Statistical Office, At risk of poverty rate (cut-off point: 60% of median equivalised income after social transfers), reported year is income reference year. Poverty line is relative. Government estimate.</footnote>
+        <footnote footnoteSeqID="53">Source: Ministerio de EconomÃ­a y Finanzas. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="54">Source: DirecciÃ³n General de EstadÃ­stica, Encuestas y Censos. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="55">Source:  INEI. Encuesta Nacional de Hogares 3; Moderate Poverty Line (individuals); Estimates based on new methodology since 2004; Not comparable with prior series (www.inei.gob.pe). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="56">Source: The Philippines Statistics Authority (PSA). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="57">Source: Federal State Statistics Service. The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="58">Source: Integrated Household Living Conditions Survey (EnquÃªte IntÃ©grale sur les Conditions de Vie des MÃ©nages). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="59">Source: The High Frequency Survey, National Bureau of Statistics, World Bank Estimate.</footnote>
+        <footnote footnoteSeqID="60">Source: A Poverty Profile for the Southern States of Sudan. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="61">Source: Department of Census and Statistics and World Bank staff calculations based on Household Income and Expenditure Survey. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="62">Source: Household Income and Expenditure Survey 2012/13 Final Report Department of Census and Statistics, March 31, 2015.ISBN 978-955-577-857-2. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="63">Source: Saint Lucia National Report of Living Conditions 2016</footnote>
+        <footnote footnoteSeqID="64">Source: National Statistical Office. Thailand Socio-economic Survey (SES) 2014, compiled by Office of the National Economic and Social Development Board, NESDB The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="65">Source: National Statistical Office. Thailand Socio-economic Survey (SES) 2012, compiled by Office of the National Economic and Social Development Board, NESDB The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="66">Source: TURKSTAT, Income and Living Conditions Survey. Poverty line is relative.</footnote>
+        <footnote footnoteSeqID="67">Source: Uganda National Household Surveyâ€”UNHS</footnote>
+        <footnote footnoteSeqID="68">Source: The national poverty line is absolute. Data are produced by government. Most Recent Comparable Series:1992,1996,1999,2002,2005,2009,2012. The complete series can be downloaded from the databank, http://databank.worldbank.org/data/reports.aspx?source=poverty-and-equity-database. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="69">Source: State Statistics Service of Ukraine The welfare measure used is income per adult equivalent. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="70">Source: Instituto Nacional de Estadistica de Uruguay (INE) - Encuesta Continua de Hogares (ECH). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="71">Source: Most Recent Comparable Series:2012,2013. 2nd Most Recent Comparable Series:2010,2011. 3rd Most Recent Comparable Series:2001,2002,2003,2004,2005. The complete series can be downloaded from the databank, http://databank.worldbank.org/data/reports.aspx?source=poverty-and-equity-database.</footnote>
+        <footnote footnoteSeqID="72">Source: Encuesta de Hogares Por Muestreo; Moderate Poverty Line (individuals). Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="73">Source: Vietnam Household Living Standards Survey (VHLSS), 2010 -2016. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="74">Source: GSO Publication, Poverty and Migration Profile 2012. The welfare measure used is consumption per capita. Poverty line is absolute. Government estimate.</footnote>
+        <footnote footnoteSeqID="75">Source: Palestinian Central Bureau of Statistics.</footnote>
+    </footnotes>
+</ROOT>
