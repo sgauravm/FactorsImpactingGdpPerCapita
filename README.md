@@ -10,4 +10,4 @@ In this project we try to find out the importance of each of the social factors 
 6. Political Stability
 7. Adult Mortality
 
-We will be using linear regression with the above features as explanatory variable and GDP per capita as dependent variable. Using this model we will try to infer the importance of these features relative to one another.
+We will be using GLM with the above features as explanatory variable and GDP per capita as dependent variable. Using this model we will try to infer the importance of these features relative to one another.
